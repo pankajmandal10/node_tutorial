@@ -1,0 +1,1 @@
+const dbConnect= require('.bin/my-store/mongodb')
